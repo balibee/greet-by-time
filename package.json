@@ -1,0 +1,31 @@
+{
+  "name": "greet-by-time",
+  "version": "1.0.0",
+  "description": "Display a greeting based on time of day",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balibee/greet-by-time.git"
+  },
+  "keywords": [
+    "greeting",
+    "time",
+    "greet",
+    "morning",
+    "day",
+    "evening"
+  ],
+  "author": "balibee <r.boebner@protonmail.ch>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/balibee/greet-by-time/issues"
+  },
+  "homepage": "https://github.com/balibee/greet-by-time#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
