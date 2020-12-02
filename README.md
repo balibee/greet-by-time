@@ -1,4 +1,5 @@
 # Greet By Time
+[![Coverage Status](https://coveralls.io/repos/github/balibee/greet-by-time/badge.svg?branch=main)](https://coveralls.io/github/balibee/greet-by-time?branch=main)
 [![Build Status](https://travis-ci.com/balibee/greet-by-time.svg?branch=main)](https://travis-ci.com/balibee/greet-by-time)
 
 
