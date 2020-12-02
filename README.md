@@ -27,7 +27,7 @@ Here's an example of how to greet a user in an app, passing the user's name as t
 ```js
 const hour = new Date().getHours();
 
-console.log(greet("Jill", hour));
+console.log(greetByTime("Jill", hour));
 
 // Output: Wakey, wakey, Jill!
 ```
