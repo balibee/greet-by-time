@@ -19,7 +19,7 @@ $ npm i greet-by-time
 To use it, simply require it as any other npm module.
 
 ```js
-const greetByTime = require("greet-by-time");
+const greet = require("greet-by-time");
 ```
 
 Here's an example of how to greet a user in an app, passing the user's name as the first parameter and the hour in the second parameter.
@@ -27,7 +27,7 @@ Here's an example of how to greet a user in an app, passing the user's name as t
 ```js
 const hour = new Date().getHours();
 
-console.log(greetByTime("Jill", hour));
+console.log(greet("Jill", hour));
 
 // Output: Wakey, wakey, Jill!
 ```
