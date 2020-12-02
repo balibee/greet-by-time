@@ -26,6 +26,7 @@
   "homepage": "https://github.com/balibee/greet-by-time#readme",
   "dependencies": {},
   "devDependencies": {
+    "coveralls": "^3.1.0",
     "jest": "^26.6.3"
   }
 }
