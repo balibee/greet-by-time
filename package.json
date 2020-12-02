@@ -1,6 +1,6 @@
 {
   "name": "greet-by-time",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Display a greeting based on time of day",
   "main": "index.js",
   "scripts": {
