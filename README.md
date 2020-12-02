@@ -1,5 +1,6 @@
 # Greet By Time
-[![Build Status](https://travis-ci.org/balibee/xtra.svg?branch=master)](https://travis-ci.org/balibee/xtra)
+[![Build Status](https://travis-ci.com/balibee/greet-by-time.svg?branch=main)](https://travis-ci.com/balibee/greet-by-time)
+
 
 Greet By Time is a simple greeting generator which displays a unique, randomized greeting to the user based on the time of day.
 
