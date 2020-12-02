@@ -5,7 +5,8 @@
 
 Greet By Time is a simple greeting generator which displays a unique, randomized greeting to the user based on the time of day.
 
-![greetbytime](https://user-images.githubusercontent.com/30849213/100656937-c83ef680-334d-11eb-9e39-3091f045a0ba.gif)
+![greet-by-time](https://user-images.githubusercontent.com/30849213/100917906-13851080-34d8-11eb-9f14-a4db2874fa9b.gif)
+
 
 ## Installation
 
