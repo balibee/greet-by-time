@@ -35,9 +35,9 @@ console.log(greet("Jill", hour));
 To customize the greetings, you just need to add a line like below. There are three categories of greetings: morning, day and evening.
 
 ```js
-greetByTime.morningGreetings = ["Hola", "Buenos dias"];
-greetByTime.dayGreetings = ["Hola", "Buenos dias"];
-greetByTime.eveningGreetings = ["Hola", "Buenos dias"];
+greet.morningGreetings = ["Hola", "Buenos dias"];
+greet.dayGreetings = ["Hola", "Buenos dias"];
+greet.eveningGreetings = ["Hola", "Buenos dias"];
 ```
 
 ### Time Definitions
